@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage DevOps</title>
 </head>
 <body>
-  <h1>Super WEb Apps Web Page</h1>
+  <h1>DevOps Tomcat Auto Deployment testing</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    Jenkins is will complete today.
   </p>
 </body>
 </html>
