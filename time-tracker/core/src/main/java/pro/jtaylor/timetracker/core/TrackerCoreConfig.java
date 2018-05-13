@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Jason on 05/12/2018.
+ * Created by Jason on 05/12/2018. Tested
  */
 @Configuration
 @ComponentScan("pro.jtaylor.timetracker.core")
