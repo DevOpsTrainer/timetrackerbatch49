@@ -11,7 +11,7 @@
     <title>DevOps</title>
 </head>
 <body>
-  <h1>Welcome to Jenkins CI/CD Soluctions</h1>
+  <h1>Welcome to Jenkins CI/CD Solutions</h1>
   <p>
     This is Batch52 Tomcat Demo.
   </p>
